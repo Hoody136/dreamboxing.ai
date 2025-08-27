@@ -1,0 +1,101 @@
+[
+    {
+      "sub_section": "simple",
+      "title": "Simple – Boxing Stance & Linear Movement",
+      "subtitle": "Master the boxing stance and the most basic movement fundamentals. Learn how to move in any direction while staying balanced and ready.",
+      "steps": [
+        {
+          "order": 1,
+          "image": "3_1_1",
+          "text": "Stand with your left foot forward and right foot back, feet just over shoulder-width apart. Front foot points to 12:30, rear to 2:30. Southpaws mirror this."
+        },
+        {
+          "order": 2,
+          "image": "3_1_2",
+          "text": "Shift your weight over your rear leg, bend your knees, and raise your rear heel. Stay light and ready, without leaning forward."
+        },
+        {
+          "order": 3,
+          "image": "3_1_3",
+          "text": "Tuck your elbows in. Rear hand floats in front of your face, front hand at shoulder level. Chin tucked, shoulders slightly rounded."
+        },
+        {
+          "order": 4,
+          "image": "3_1_4",
+          "text": "Front view: your body is turned inward to present a smaller target. Side view: upright posture, no leaning forward."
+        },
+        {
+          "order": 5,
+          "image": "4_1_1",
+          "text": "To move forward: push from your rear glute, step forward with lead foot, then rear foot follows the same distance."
+        },
+        {
+          "order": 6,
+          "image": "4_1_2",
+          "text": "To move backward: push from your front foot toe, step back with rear foot, then bring front foot back to stance."
+        },
+        {
+          "order": 7,
+          "image": "4_1_3",
+          "text": "To move right: push from lead foot, step right with rear foot first, then front foot follows. Lead glute fires first."
+        },
+        {
+          "order": 8,
+          "image": "4_1_4",
+          "text": "To move left: push from rear foot, step left with lead foot first, then rear foot follows to return to stance."
+        }
+      ],
+      "audio": "simple_audio.mp3",
+      "takeaways": [
+        "Balance and structure are key — stay relaxed, knees bent, and weight on the balls of your feet.",
+        "Small, deliberate steps help maintain your stance and protection.",
+        "Footwork begins from the glutes — rear glute moves you forward, lead glute controls lateral steps."
+      ]
+    },
+    {
+      "sub_section": "circling",
+      "title": "Circling",
+      "subtitle": "Move around your opponent, not just toward them. A mobile target is harder to hit.",
+      "steps": [
+        {
+          "order": 1,
+          "image": "4_2_1",
+          "text": "To circle left: step diagonally with your rear foot, then return to stance with your lead foot. Repeat smoothly."
+        },
+        {
+          "order": 2,
+          "image": "4_2_2",
+          "text": "To circle right: step diagonally with your lead foot, then return to stance with your rear foot. Pivot slightly on the lead foot."
+        }
+      ],
+      "audio": "circling_audio.mp3",
+      "takeaways": [
+        "Circling keeps you balanced, mobile, and lets you create angles.",
+        "Step diagonally — rear foot first when circling left, lead foot first when circling right.",
+        "Use a slight pivot on your lead foot to stay aligned with your opponent."
+      ]
+    },
+    {
+      "sub_section": "pivots",
+      "title": "Pivoting",
+      "subtitle": "Shift your angle, stay in control. Use pivots to evade or attack from a better position.",
+      "steps": [
+        {
+          "order": 1,
+          "image": "4_3_1",
+          "text": "To pivot left: place about 60% of your weight on the lead foot and rotate on the ball of the foot, swinging your rear foot around."
+        },
+        {
+          "order": 2,
+          "image": "4_3_2",
+          "text": "To pivot right: step your rear foot out wide while pivoting your lead foot. Always finish in stance."
+        }
+      ],
+      "audio": "pivoting_audio.mp3",
+      "takeaways": [
+        "Pivoting creates offensive and defensive angles while keeping you balanced.",
+        "To pivot left, rotate on your lead foot while swinging your rear foot into position.",
+        "To pivot right, step your rear foot out and pivot on the lead foot, returning to front-toe–rear-heel alignment."
+      ]
+    }
+  ]

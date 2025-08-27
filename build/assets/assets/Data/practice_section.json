@@ -1,0 +1,97 @@
+[
+  {
+    "sub_section": "audio_easy",
+    "title": "ShadowBox Practice - Easy",
+    "subtitle": "Start with the basics. This easy shadowbox session focuses on fundamental movements and proper form.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_1_1",
+        "text": "Begin in your boxing stance. Feet shoulder-width apart, knees slightly bent, hands up in guard position. Take a deep breath and relax.",
+        "audio": "shadowbox_easy_audio.mp3"
+      }
+    ],
+    "audio": "shadowbox_easy_audio.mp3",
+    "takeaways": [
+      "Focus on form over speed - perfect technique builds the foundation for power.",
+      "Keep your guard up at all times, even when moving.",
+      "Breathe naturally and stay relaxed - tension wastes energy."
+    ]
+  },
+  {
+    "sub_section": "audio_medium1",
+    "title": "ShadowBox Practice - Medium 1",
+    "subtitle": "Build on the basics with combinations and more complex footwork patterns.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_2_1",
+        "text": "Start with jab-cross combinations. Jab with your lead hand, then cross with your rear hand. Focus on hip rotation and proper weight transfer.",
+        "audio": "shadowbox_medium1_audio.mp3"
+      }
+    ],
+    "audio": "shadowbox_medium1_audio.mp3",
+    "takeaways": [
+      "Combinations should flow naturally - each punch sets up the next.",
+      "Defense and offense work together - always be ready to defend after attacking.",
+      "Footwork creates opportunities - use movement to find better angles."
+    ]
+  },
+  {
+    "sub_section": "audio_medium2",
+    "title": "ShadowBox Practice - Medium 2",
+    "subtitle": "Advanced combinations and defensive techniques to challenge your skills.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "6_2_1",
+        "text": "Practice advanced combinations: jab-cross-hook-cross. Focus on timing and rhythm. Each punch should flow into the next with proper hip rotation.",
+        "audio": "shadowbox_medium2_audio.mp3"
+      }
+    ],
+    "audio": "shadowbox_medium2_audio.mp3",
+    "takeaways": [
+      "Advanced combinations require perfect timing - practice slowly before increasing speed.",
+      "Body shots open up head shots - mix your targets effectively.",
+      "Defensive counters can be your most effective offense - practice them regularly."
+    ]
+  },
+  {
+    "sub_section": "audio_advanced",
+    "title": "ShadowBox Practice - Advanced",
+    "subtitle": "The ultimate challenge - complex combinations, advanced footwork, and high-intensity training.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "6_4_1",
+        "text": "Master the 7-punch combination: jab, cross, lead hook, rear uppercut, lead uppercut, rear hook body, lead hook body. Execute with perfect form and speed.",
+        "audio": "shadowbox_advanced_audio.mp3"
+      }
+    ],
+    "audio": "shadowbox_advanced_audio.mp3",
+    "takeaways": [
+      "Complex combinations require hours of practice - start slow and build up gradually.",
+      "Advanced techniques only work if your fundamentals are solid - never sacrifice form for complexity.",
+      "High-intensity training builds both physical and mental endurance - push your limits safely."
+    ]
+  },
+  {
+    "sub_section": "audio_advanced2",
+    "title": "ShadowBox Practice - Advanced 2",
+    "subtitle": "Elite level training - master the most complex combinations and defensive movements.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "5_2_1",
+        "text": "Practice advanced defensive movements. Combine slipping, rolling, and blocking in fluid sequences. Stay balanced and ready to counter at any moment.",
+        "audio": "shadowbox_advanced2_audio.mp3"
+      }
+    ],
+    "audio": "shadowbox_advanced2_audio.mp3",
+    "takeaways": [
+      "Elite techniques require perfect fundamentals - never skip the basics.",
+      "Advanced defense creates offensive opportunities - master both sides.",
+      "Consistency beats intensity - practice regularly with perfect form."
+    ]
+  }
+]

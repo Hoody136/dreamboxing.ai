@@ -1,0 +1,129 @@
+[
+  {
+    "sub_section": "hiprotation",
+    "title": "Hip Rotation",
+    "subtitle": "Learn to rotate — the secret to power in your punches.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_1_1",
+        "text": "Stand with your feet parallel and slightly wider than shoulder-width. Stretch your arms out to your sides like the image. This drill works for both orthodox and southpaw stances."
+      },
+      {
+        "order": 2,
+        "image": "2_1_2",
+        "text": "Push your bum back, slightly bend your knees, and engage your core. Keep your body relaxed but upright."
+      },
+      {
+        "order": 3,
+        "image": "2_1_3",
+        "text": "Rotate your hips left and right. Imagine a stick running from your head to the ground keeping your spine upright. Slightly lift your heel to allow smooth rotation."
+      },
+      {
+        "order": 4,
+        "image": "2_1_4",
+        "text": "Side view: when rotating, stay upright and avoid leaning forward or back. Use your hips to initiate the twist and feel your core working."
+      }
+    ],
+    "audio": "hiprotation_audio.mp3",
+    "takeaways": [
+      "Power comes from hip rotation, not your arms.",
+      "Stay upright — rotate without leaning, keeping your core engaged and body relaxed.",
+      "Lift your heel slightly when turning to let your hips move freely."
+    ]
+  },
+  {
+    "sub_section": "straightshots",
+    "title": "Mechanics of Straight Shots",
+    "subtitle": "Build power and protection into every straight punch.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_2_1",
+        "text": "Stand with your feet slightly wider than shoulder-width, bum slightly back, knees bent, and hands in guard position. Elbows rest on your body, chin tucked."
+      },
+      {
+        "order": 2,
+        "image": "2_2_2",
+        "text": "Twist your hips to the right while extending your left arm. Slightly lift your left heel to release your hip. Keep your other hand in guard."
+      },
+      {
+        "order": 3,
+        "image": "2_2_2",
+        "text": "Repeat on the other side: rotate to your left and punch with your right. Fist moves in a straight line from your chin and turns over at the end."
+      }
+    ],
+    "audio": "straightshots_audio.mp3",
+    "takeaways": [
+      "Power in straight punches comes from hip rotation and proper timing, not just your arm.",
+      "Relax your punching hand until midway, then clench and turn it parallel at full extension.",
+      "Keep your other hand and elbow in place to protect your chin and body."
+    ]
+  },
+  {
+    "sub_section": "hooks",
+    "title": "Mechanics of Hooks",
+    "subtitle": "Master the hook — power and precision in one motion.",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_3_1",
+        "text": "Start in stance: feet wider than shoulder-width, hands in front of face, chin tucked. Engage your core and bend your knees slightly."
+      },
+      {
+        "order": 2,
+        "image": "2_3_2",
+        "text": "Rotate your hips to the right while keeping your left arm in position. Feel tension build in your hips."
+      },
+      {
+        "order": 3,
+        "image": "2_3_3",
+        "text": "From that position, swing your left arm into a hook. Thumb up, forearm parallel to the floor. Opposite hand stays in guard."
+      },
+      {
+        "order": 4,
+        "image": "2_3_3",
+        "text": "Repeat for right hook: load your hips first, rotate, and strike with a compact motion. Avoid swinging past your centerline."
+      }
+    ],
+    "audio": "hooks_audio.mp3",
+    "takeaways": [
+      "The hook’s power comes from hip rotation — load your hips first.",
+      "Keep your forearm parallel to the floor, thumb up, and your opposite hand protecting your chin.",
+      "The hook stays tight — don’t let it swing too far past your body."
+    ]
+  },
+  {
+    "sub_section": "uppercuts",
+    "title": "Mechanics of Uppercuts",
+    "subtitle": "Master the uppercut — they’ll never see it comin’!",
+    "steps": [
+      {
+        "order": 1,
+        "image": "2_4_1",
+        "text": "Stand in your boxing stance: feet wide, core engaged, bum back, hands up in guard, chin tucked."
+      },
+      {
+        "order": 2,
+        "image": "2_4_2",
+        "text": "Shift your weight onto your lead leg by hinging at the hips. Your shoulders should tilt slightly, preparing you to drive upward."
+      },
+      {
+        "order": 3,
+        "image": "2_4_3",
+        "text": "Let your punching hand drop slightly out of your guard, keeping your elbow in close to your body."
+      },
+      {
+        "order": 4,
+        "image": "2_4_4",
+        "text": "Rotate your hips and drive your arm upward into the punch. Exhale as you strike and keep your other hand in guard."
+      }
+    ],
+    "audio": "uppercuts_audio.mp3",
+    "takeaways": [
+      "Shift your weight to your lead leg and hinge at the hip to load the punch.",
+      "Drop your punching hand slightly, then rotate your hips and punch upward.",
+      "Keep your opposite hand protecting your chin and breathe out as you punch."
+    ]
+  }
+]
